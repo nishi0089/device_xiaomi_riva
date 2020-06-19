@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/revengeos_riva.mk
+    $(LOCAL_DIR)/bliss_riva.mk
 
 COMMON_LUNCH_CHOICES := \
-     revengeos_riva-userdebug
+     bliss_riva-userdebug
